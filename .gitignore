@@ -36,6 +36,7 @@ build/Release
 node_modules/
 jspm_packages/
 screenshots/*.png
+mn/*.jpg
 
 # Typescript v1 declaration files
 typings/
